@@ -13,4 +13,4 @@ Aspiring *Data Analyst* with a passion for *data-driven decision-making* and *pr
 ## 🤝 Connect With Me  
 - [LinkedIn](linkedin.com/in/ikechukwudivine) | [GitHub](#)  
 
-### ✨ "Turning data into insights for smarter decisions!"
+### ✨ Turning data into insights for smarter decisions!
