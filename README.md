@@ -1,4 +1,4 @@
-Aspiring *Data Analyst* with a passion for *data-driven decision-making* and process optimization. Currently enrolled in the **Cisco Networking Academy Data Analytics course, I am building skills in **data analysis, SQL, Excel, and visualization tools*.  
+Aspiring *Data Analyst* with a passion for *data-driven decision-making* and process optimization. Currently enrolled in the Cisco Networking Academy Data Analytics course, I am building skills in data analysis, SQL, Excel, and visualization tools.  
 
 ## Skills & Tools  
 - 📊 Data Analysis | Data Visualization  
